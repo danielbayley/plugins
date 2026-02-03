@@ -69,7 +69,7 @@
     "@rollup/plugin-node-resolve": "^15.0.0",
     "@rollup/plugin-typescript": "^9.0.1",
     "@types/eslint": "^8.56.12",
-    "eslint": "^8.57.1",
+    "eslint": "^9.26.0",
     "eslint9": "npm:eslint@^9.37.0",
     "esmock": "^2.7.3",
     "rollup": "^4.0.0-24",
